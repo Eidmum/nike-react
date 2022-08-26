@@ -1,0 +1,42 @@
+/* common styles */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.banner h1,section h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+/* header */
+.header-background{
+    background-color: #FFF9F4;
+}
+
+/* navbar */
+
+.brand-logo{
+    width: 291px;
+    height: 39px;
+}
+/* banner */
+.banner-padding{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.orange-text{
+    color: orange;
+    font-weight: 700;
+}
+/* card area */
+.card-background{
+    background-color:  #F1F1F1;
+    
+}
+.card-title-font{
+    font-weight: 700;
+}
+/* experience area */
+.experience-image{
+    width: 78px;
+}
